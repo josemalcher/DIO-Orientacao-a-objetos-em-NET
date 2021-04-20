@@ -44,6 +44,23 @@ Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico d
 
 ## <a name="parte2">2 - O que são classes, objetos e visibilidade</a>
 
+![](/imgs/OO_02_01.png)
+
+![](/imgs/OO_02_02.png)
+
+![](/imgs/OO_02_03.png)
+
+![](/imgs/OO_02_04.png)
+
+![](/imgs/OO_02_05.png)
+
+![](/imgs/OO_02_06.png)
+
+![](/imgs/OO_02_07.png)
+
+![](/imgs/OO_02_08.png)
+
+![](/imgs/OO_02_09.png)
 
 
 [Voltar ao Índice](#indice)

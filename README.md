@@ -70,6 +70,31 @@ Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico d
 
 ## <a name="parte3">3 - Entenda os diferentes tipos por valor, referência e ponteiro</a>
 
+![](/imgs/OO_03_01.png)
+
+![](/imgs/OO_03_02.png)
+
+![](/imgs/OO_03_03.png)
+
+![](/imgs/OO_03_04.png)
+
+![](/imgs/OO_03_05.png)
+
+![](/imgs/OO_03_06.png)
+
+![](/imgs/OO_03_07.png)
+
+![](/imgs/OO_03_08.png)
+
+![](/imgs/OO_03_09.png)
+
+![](/imgs/OO_03_10.png)
+
+![](/imgs/OO_03_11.png)
+
+![](/imgs/OO_03_12.png)
+
+![](/imgs/OO_03_13.png)
 
 
 [Voltar ao Índice](#indice)

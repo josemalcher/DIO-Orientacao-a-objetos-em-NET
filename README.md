@@ -104,6 +104,21 @@ Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico d
 
 ## <a name="parte4">4 - O que são métodos</a>
 
+![](/imgs/OO_04_01.png)
+
+![](/imgs/OO_04_02.png)
+
+![](/imgs/OO_04_03.png)
+
+![](/imgs/OO_04_04.png)
+
+![](/imgs/OO_04_05.png)
+
+![](/imgs/OO_04_06.png)
+
+![](/imgs/OO_04_07.png)
+
+![](/imgs/OO_04_08.png)
 
 
 [Voltar ao Índice](#indice)
